@@ -12,6 +12,8 @@
     },
     "rules": {
         "linebreak-style": "off",
-        "arrow-body-style": "off"
+        "arrow-body-style": "off",
+        "max-len": "off",
+        "consistent-return": "off"
     }
 }
